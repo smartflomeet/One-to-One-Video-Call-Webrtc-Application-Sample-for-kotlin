@@ -1,4 +1,4 @@
-package com.enablex.demoenablex.web_communication
+package com.smartflomeet.demosmartflomeet.web_communication
 
 interface WebResponse {
     fun onWebResponse(response: String, callCode: Int)

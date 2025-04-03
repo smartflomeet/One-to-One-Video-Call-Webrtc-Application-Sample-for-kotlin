@@ -1,4 +1,4 @@
-package com.enablex.demoenablex.activity
+package com.smartflomeet.demosmartflomeet.activity
 
 import android.app.Dialog
 import android.content.Context
@@ -17,8 +17,8 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.enablex.demoenablex.R
-import com.enablex.demoenablex.utilities.OnDragTouchListener
+import com.smartflomeet.demosmartflomeet.R
+import com.smartflomeet.demosmartflomeet.utilities.OnDragTouchListener
 import com.google.gson.Gson
 import enx_rtc_android.Controller.EnxActiveTalkerViewObserver
 import enx_rtc_android.Controller.EnxLogsObserver

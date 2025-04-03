@@ -1,10 +1,9 @@
-package com.enablex.demoenablex.web_communication
+package com.smartflomeet.demosmartflomeet.web_communication
 
 import android.app.ProgressDialog
 import android.content.Context
 import android.net.ConnectivityManager
 import android.os.AsyncTask
-import android.util.Base64
 import android.util.Log
 import android.widget.Toast
 import org.json.JSONObject

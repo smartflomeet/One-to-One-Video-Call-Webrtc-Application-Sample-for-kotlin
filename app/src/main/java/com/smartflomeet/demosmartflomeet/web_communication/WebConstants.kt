@@ -1,4 +1,4 @@
-package com.enablex.demoenablex.web_communication
+package com.smartflomeet.demosmartflomeet.web_communication
 
 object WebConstants {
 
@@ -7,7 +7,7 @@ object WebConstants {
 
     /*Your webservice host URL, Keet the defined host when kTry = true */
 
-    public static final String kBaseURL = "https://demo.smartflomeet.ttns.in/";
+    val kBaseURL  = "https://demo.smartflomeet.ttns.in/";
 
     /*The following information required, Only when kTry = true, When you hosted your own webservice remove these fileds*/
 
